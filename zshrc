@@ -1,0 +1,1 @@
+../lib/zsh-quickstart-kit/zsh/.zshrc
